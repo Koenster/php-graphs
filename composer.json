@@ -1,6 +1,6 @@
 {
-  "name": "koenster/PHPGraphs",
-  "description": "A PHP wrapper for JS charts.",
+  "name": "koenster/php-graphs",
+  "description": "A PHP library for JS charts.",
   "keywords": ["php charts", "php graphs", "charts", "graphs"],
   "license": "MIT",
   "type": "project",
