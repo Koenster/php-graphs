@@ -1,0 +1,22 @@
+{
+  "name": "koenster/PHPGraphs",
+  "description": "A PHP wrapper for JS charts.",
+  "keywords": ["php charts", "php graphs", "charts", "graphs"],
+  "license": "MIT",
+  "type": "project",
+  "require": {
+    "php": ">=5.5.9"
+  },
+  "require-dev": {
+    "mockery/mockery": "0.9.*",
+    "phpunit/phpunit": "~4.0"
+  },
+  "autoload": {
+    "classmap": [
+
+    ],
+    "psr-4": {
+      "koenster\\PHPGraphs\\": "src/"
+    }
+  }
+}
