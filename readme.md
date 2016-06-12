@@ -73,7 +73,7 @@ Feel free to edit and/or improve the code to make a better PHP Graph library.
 
 ##Future implementations
 
-* Chrtits.js -> https://gionkunz.github.io/chartist-js/
+* Chrtist.js -> https://gionkunz.github.io/chartist-js/
 * jQuery flot -> http://www.flotcharts.org/
 
 ##License
