@@ -119,6 +119,7 @@ abstract class AbstractImplementation
     public function setDimensions(array $dimensions)
     {
         $this->dimensions = array_values($dimensions);
+        return $this;
     }
 
     /**
